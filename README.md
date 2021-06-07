@@ -1,6 +1,9 @@
 # EveryPhoneNumberInMaldives
 Generator and List of every possible phone number in maldives
 
+# C number gen
+this is better then C# code except you have to rename the file yourself and in thepory should be the fastest Csv gen in this repo
+
 # Android_App
 contains the base code needed to make the contacts gen. you will need to asemble the code yourself all the pieces are there
 
