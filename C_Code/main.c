@@ -28,7 +28,6 @@ int main()
         {
             numd=numd+1;
             fprintf(out_file, "+960%.0d, %.0d\n",numd,numd);
-            printf("number: +960%.0d\n",numd);
             x=x+1;
         }
 
@@ -48,7 +47,6 @@ int main()
         {
             numo=numo+1;
             fprintf(out_file, "+960%.0d, %.0d\n",numd,numd);
-            printf("number: +960%.0d\n",numo);
             x=x+1;
         }
 
