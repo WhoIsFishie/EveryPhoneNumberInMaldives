@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\NumberGen\NumberGen\bin\Debug\NumberGen.exe.config
+C:\Users\User\source\repos\NumberGen\NumberGen\bin\Debug\NumberGen.exe
+C:\Users\User\source\repos\NumberGen\NumberGen\bin\Debug\NumberGen.pdb
+C:\Users\User\source\repos\NumberGen\NumberGen\obj\Debug\NumberGen.csprojAssemblyReference.cache
+C:\Users\User\source\repos\NumberGen\NumberGen\obj\Debug\NumberGen.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\NumberGen\NumberGen\obj\Debug\NumberGen.exe
+C:\Users\User\source\repos\NumberGen\NumberGen\obj\Debug\NumberGen.pdb
