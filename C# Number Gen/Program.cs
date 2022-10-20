@@ -25,6 +25,15 @@ namespace NumberGen
                 sb.AppendFormat("\n{0},{1}", "Name", i); //get it ready for csv format
                 File.AppendAllText("Dhiraagu.csv", sb.ToString()); //add line to csv file
             }
+		
+	    for (int i = 9000000; i < 9999999; i++) //change starting and ending value based on the type of number
+            {
+                Console.WriteLine("Number: +960 " + i); // show output
+                StringBuilder sb = new StringBuilder();
+                sb.AppendFormat("\n{0},{1}", "Name", i); //get it ready for csv format
+                File.AppendAllText("Ooredoo.csv", sb.ToString()); //add line to csv file
+            }
+		
             Console.WriteLine("DONE");
         }
     }
